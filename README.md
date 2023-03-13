@@ -18,7 +18,7 @@ To run the website locally, follow these steps:
 Clone the repository:
 bash
 
-git clone https://github.com/your-username/chat-bot-chatgpt-website.git
+git clone[ https://github.com/your-username/chat-bot-chatgpt-website.git](https://github.com/Akshat171/ChatBot_ChatGPT.git)
 Install dependencies:
 bash
 
