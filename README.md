@@ -14,6 +14,7 @@ User authentication: Users can create accounts and log in to the website to acce
 Real-time chat: The website uses Socket.IO to provide real-time chat functionality.
 Getting Started
 To run the website locally, follow these steps:
+![image](https://user-images.githubusercontent.com/81281246/226969935-69bb3b7f-85e1-43a4-8861-c7d231aa30fb.png)
 
 Clone the repository:
 bash
